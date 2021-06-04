@@ -1,4 +1,4 @@
-module example.com/hello
+module github.com/borjatur/go-hello
 
 go 1.12
 
